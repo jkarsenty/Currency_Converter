@@ -7,3 +7,6 @@ The app contains 3 types of widgets :
 - 2 combobox to choose the currency From and To
 - 2 spinbox with the amount to convert
 - 1 button "inverser devise" to reverse currency
+
+<img src="./user_inteface.jpg">
+
