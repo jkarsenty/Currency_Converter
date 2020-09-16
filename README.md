@@ -8,5 +8,5 @@ The app contains 3 types of widgets :
 - 2 spinbox with the amount to convert
 - 1 button "inverser devise" to reverse currency
 
-<img src="./user_inteface.jpg">
+<img src="https://github.com/jkarsenty/Currency_Converter/blob/master/user_interface.jpg">
 
